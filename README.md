@@ -1,6 +1,7 @@
 ## Modelos de regressão
 
 ### dados insurance.csv Kaggle
+>> Análise base no linkedin
 - <https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset>
 
 
